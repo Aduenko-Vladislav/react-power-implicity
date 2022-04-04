@@ -22,21 +22,12 @@
       font-size: 14px;
       line-height: 16px;
       color: #a0a3a7;
-      transition: 0.5s linear;
-      &:active {
-        color: #fc7676;
-      }
-      &:hover {
-        color: #ff9797;
-      }
+      transition: 0.3s linear;
       .item__link {
         transition: 0.3s linear;
-        &:hover {
-          color: #ff9797;
         }
       }
     }
-  }
   &__btn {
     justify-self: end;
     padding: 16px 24px;
@@ -44,8 +35,5 @@
     box-shadow: 0px 4px 50px rgba(37, 37, 37, 0.08),
       inset 1px 1px 1px rgba(135, 135, 135, 0.32);
     border-radius: 999px;
-    &:active {
-      box-shadow: 2px 2px 15px #ffffff;
-    }
   }
 }
