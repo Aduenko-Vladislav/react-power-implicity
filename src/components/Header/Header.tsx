@@ -12,7 +12,7 @@ const Header = () => {
         <button className="content__btn" type="button">
           Learn
         </button>
-        <ol className="slider">
+        <ol className="content__slider">
           <li className="slider__indicator"></li>
           <li className="slider__indicator"></li>
           <li className="slider__indicator slider__indicator--active"></li>
