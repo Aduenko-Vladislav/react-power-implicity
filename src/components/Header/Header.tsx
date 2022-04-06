@@ -3,7 +3,7 @@ import "./styles.scss";
 const Header = () => {
   return (
     <header className="content">
-      <div className="content__wrapper">
+      <div className="content__container">
         <h1 className="content__title">The Power of Simplicity</h1>
         <p className="content__text">
           Instead of spending time searching for the right app, our AI will

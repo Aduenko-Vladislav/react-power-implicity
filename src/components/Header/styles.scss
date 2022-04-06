@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  &__wrapper {
+  &__container {
     padding: 0 16px;
     max-width: 598px;
     width: 100%;
@@ -19,7 +19,6 @@
     @media (max-width: 820px) {
       margin-bottom: 90px;
     }
-  
   }
 
   &__text {
@@ -64,5 +63,3 @@
     }
   }
 }
-
-
