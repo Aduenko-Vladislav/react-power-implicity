@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-power-implicity/static/css/main.181e443d.css",
+    "main.js": "/react-power-implicity/static/js/main.03b1386f.js",
+    "index.html": "/react-power-implicity/index.html",
+    "main.181e443d.css.map": "/react-power-implicity/static/css/main.181e443d.css.map",
+    "main.03b1386f.js.map": "/react-power-implicity/static/js/main.03b1386f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.181e443d.css",
+    "static/js/main.03b1386f.js"
+  ]
+}
